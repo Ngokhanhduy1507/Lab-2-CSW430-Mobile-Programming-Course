@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|c:\\ng\u00F4 kh\u00E1nh duy_1831200018_lab2\\q1webapi\\q1webapi\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|c:\\ng\u00F4 kh\u00E1nh duy_1831200018_lab2\\q1webapi\\q1webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|c:\\ng\u00F4 kh\u00E1nh duy_1831200018_lab2\\q1webapi\\q1webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|c:\\ng\u00F4 kh\u00E1nh duy_1831200018_lab2\\q1webapi\\q1webapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|c:\\ng\u00F4 kh\u00E1nh duy_1831200018_lab2\\q1webapi\\q1webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|c:\\ng\u00F4 kh\u00E1nh duy_1831200018_lab2\\q1webapi\\q1webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|c:\\ng\u00F4 kh\u00E1nh duy_1831200018_lab2\\q1webapi\\q1webapi\\q1webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF0C4FFF-40C8-4939-A179-95137F61CE83}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\q1webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Q1WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:19:24.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Q1WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\appsettings.json",
+              "RelativeToolTip": "Q1WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T01:45:28.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Program.cs",
+              "ToolTip": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Program.cs",
+              "RelativeToolTip": "Q1WebAPI\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:44:49.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryManagementContext.cs",
+              "DocumentMoniker": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Models\\LibraryManagementContext.cs",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Models\\LibraryManagementContext.cs",
+              "ToolTip": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Models\\LibraryManagementContext.cs",
+              "RelativeToolTip": "Q1WebAPI\\Models\\LibraryManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:44:25.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Models\\Book.cs",
+              "RelativeToolTip": "Q1WebAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:43:22.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Q1WebAPI.csproj",
+              "DocumentMoniker": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Q1WebAPI.csproj",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Q1WebAPI.csproj",
+              "ToolTip": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Q1WebAPI.csproj",
+              "RelativeToolTip": "Q1WebAPI\\Q1WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T01:42:41.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Ng\u00F4 Kh\u00E1nh Duy_1831200018_Lab2\\Q1WebAPI\\Q1WebAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Q1WebAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:41:18.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
